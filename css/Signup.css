@@ -1,0 +1,42 @@
+
+
+
+body{
+	background: url(../img/two.jpeg);
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container{
+	width: 450px;
+	margin: 0px auto;
+	color: white;
+}
+
+.Signup-section{
+	background-color: #0000006b;
+    width: 200px;
+    height: 400px;
+    margin: 0;
+    display: block;
+    padding: 10px;
+
+}
+
+.Signup-section{
+	margin: 5%;
+    color: white;
+    text-align: center;
+    margin: 0px auto;
+}
+
+
+.Submit{
+
+}
+
+..Submit:hover{
+	cursor: pointer;
+	box-shadow: 2px 4px 3px #ffff;
+}
